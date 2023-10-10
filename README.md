@@ -6,6 +6,7 @@
 ## 리포지토리 경로
 <pre><code>
   README.md
+  - project 프로젝트 리스트
   
 </code></pre>
 
