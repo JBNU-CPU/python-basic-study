@@ -42,4 +42,8 @@ if __name__ == "__main__":
   
 </code></pre>
 
+## 구현 관련 문의
+
+김지훈, xxxjjhhh@naver.com, 010-8792-7589
+
 ---
