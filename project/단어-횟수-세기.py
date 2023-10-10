@@ -2,7 +2,8 @@
 #
 
 def main():
+    print("a")
 
 
-if __name__ == "__main__:
-  main()
+if __name__ == "__main__":
+    main()
